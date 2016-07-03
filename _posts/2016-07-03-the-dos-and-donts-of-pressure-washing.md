@@ -26,10 +26,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.bobvila.com/articles/the-dos-and-donts-of-pressure-washing/'
 title: The Dos and Don'ts of Pressure-Washing
-datePublished: '2016-07-03T19:50:51.083Z'
-dateModified: '2016-07-03T19:50:43.381Z'
+datePublished: '2016-07-03T19:50:58.218Z'
+dateModified: '2016-07-03T19:50:57.990Z'
 sourcePath: _posts/2016-07-03-the-dos-and-donts-of-pressure-washing.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
