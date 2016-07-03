@@ -1,0 +1,14 @@
+layout_spectrum: 0.4138547037728131
+typography_spectrum: 0.844562120269984
+color:
+  brandStrength: 0.5074999600183219
+  lightness: 0.31428738753311336
+  saturation: 0.7031935644336045
+  rhythmicContrast: 0.5306703802198172
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: washable
