@@ -6,9 +6,9 @@ color:
   saturation: 0.7031935644336045
   rhythmicContrast: 0.5306703802198172
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: washable
